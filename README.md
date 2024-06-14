@@ -9,8 +9,10 @@ I analyzed a large sales dataset to identify trends, top-selling products, and k
 3. **Calculating Revenue Metrics:** Computing important financial metrics such as total sales, profit margins, and other key performance indicators.
 4. **Creating Visualizations:** Developing clear and informative visualizations to present the findings effectively.
 
-###Technologies Used
-**Tools: Power BI
-**Data Processing: Power Query for data cleaning and transformation
-**Visualizations: Power BI for creating interactive dashboards
+### Technologies Used
+
+- **Tools:** Power BI
+- **Data Processing:** Power Query for data cleaning and transformation
+- **Visualizations:** Power BI for creating interactive dashboards
+
 
